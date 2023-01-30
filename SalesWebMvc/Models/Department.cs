@@ -20,7 +20,7 @@ namespace SalesWebMvc.Models
             Id = id;
             Name = name;
         }
-        public void Add(Seller seller) 
+        public void AddSeller(Seller seller) 
         {
             Sellers.Add(seller);
         }
