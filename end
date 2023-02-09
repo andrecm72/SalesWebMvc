@@ -1,0 +1,29 @@
+[33m82f0e09[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Exception handling for delete (referential integrity)
+[33mf2d7f26[m Asynchronous operations using Tasks (async, await)
+[33m00aaa98[m App locale, number and date formatting
+[33mb279c51[m Returning custom error page
+[33m58b28d5[m Update seller and custom service exception
+[33m5ce36ae[m Seller details and eager loading
+[33mfb139c3[m Delete seller
+[33m897938f[m SellerFormViewModel and Department select component
+[33m67ee9c3[m Foreign key not null (referential integrity)
+[33m5e5b360[m Simple Create form
+[33m23fa53a[m SellerService and basic FindAll
+[33med71c29[m SellersController com correcao
+[33m0f1328a[m SellersController
+[33m95663d2[m SellersController
+[33m27cbb4a[m Seeding Service
+[33mf34750c[m Correcao Other entities and second migration
+[33m90d1823[m Other entities and second migration
+[33m5272c15[m Changing theme
+[33mebffa51[m MySQL adaptation and first migration
+[33med0c958[m CRUD Scaffolding
+[33maa36f0c[m Deleting Department view and controller
+[33m4606336[m First Model-Controller-View - Department
+[33m92bf815[m CRUD Scaffolding
+[33m173da88[m Deleting Department view and controller
+[33ma3fcd21[m First Model-Controller-View-Department
+[33m39e2e40[m Alterado pagina ABOUT
+[33m8f89b02[m First controller and Razor pages tests
+[33m8a0fb21[m Criando o projeto
+[33m7adb5f8[m Initial commit
